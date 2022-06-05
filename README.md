@@ -1,4 +1,6 @@
 # nAtex Client Cheat V1.0
+### Best Cheat 2022🐱‍👤
+![883ab2e7774809c038fc7aa2ff930e6e](https://user-images.githubusercontent.com/59067764/172053713-018f7c31-e5e7-4b16-bf02-856809c3c9b7.png)
 
 ## Description
 > Cheats (156)
@@ -261,3 +263,5 @@ U -> Freecam
 X -> X-Ray
 Z -> Sneak
 
+# License
+This code is licensed under the GNU General Public License v3. You can only use this code in open-source clients that you release under the same license! Using it in closed-source/proprietary clients is not allowed!
