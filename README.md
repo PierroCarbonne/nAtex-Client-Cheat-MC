@@ -159,7 +159,8 @@ TrollPotion
 TrueSight
 Tunneller
 X-Ray
-Commands (58)
+> Commands (58)
+> 
 .addalt
 .annoy
 .author
@@ -218,7 +219,8 @@ Commands (58)
 .viewnbt
 .wms
 .xray
-Other Features (20)
+> Other Features (20)
+> 
 AltManager
 BookHack
 Changelog
@@ -239,8 +241,9 @@ Wurst Capes
 Wurst Logo (can be disabled)
 YesCheat+
 Zoom
-Default Keybinds (15)
-Note: Keybinds are slightly different depending on your Minecraft version. Check the Wurst Wiki for details.
+> Default Keybinds (15)
+> 
+> Note: Keybinds are slightly different depending on your Minecraft version. Check the Wurst Wiki for details.
 
 B -> FastPlace;FastBreak
 C -> Fullbright
