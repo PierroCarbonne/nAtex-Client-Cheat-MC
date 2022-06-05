@@ -1,7 +1,8 @@
 # nAtex Client Cheat V1.0
 
 ## Description
-Cheats (156)
+> Cheats (156)
+
 AnchorAura
 AntiAFK
 AntiBlind
